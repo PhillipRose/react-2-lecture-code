@@ -1,9 +1,12 @@
 .App {
   text-align: center;
   background: whitesmoke;
+  /* margin: 0; */
 }
 
 .main-header {
   height: 75px;
   background: skyblue;
+  /* line-height: 75px; */
+  /* margin: 0; */
 }
